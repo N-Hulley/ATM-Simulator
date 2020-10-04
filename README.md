@@ -1,2 +1,2 @@
 # ATM-Simulator
-Simple ATM simulator done for a class
+ATM simulator done for a class in 2018
